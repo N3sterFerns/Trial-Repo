@@ -6,3 +6,4 @@ add = num1+num2
 
 print(f"The total is {add}")
 
+print("Edited the file")
